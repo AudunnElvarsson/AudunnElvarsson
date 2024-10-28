@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am a PhD student at Chalmers University of Technology in Gothenburg, Sweden
+
+My research interests mainly lie in using photoelectron spectroscopy techniques to understand interphases in batteries
+
+
 <!--
 **AudunnElvarsson/AudunnElvarsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
