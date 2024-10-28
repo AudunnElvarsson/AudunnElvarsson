@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a PhD student at Chalmers University of Technology in Gothenburg, Sweden
+I am a PhD student at Chalmers University of Technology in Gothenburg, Sweden 🇸🇪
 
-My research interests mainly lie in using photoelectron spectroscopy techniques to understand interphases in batteries
+My research interests mainly lie in using photoelectron spectroscopy techniques to understand interphases in batteries 🔋
 
 
 <!--
